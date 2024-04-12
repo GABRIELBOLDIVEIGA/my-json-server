@@ -1,6 +1,6 @@
 {
   "pkvd": {
-    "show": false,
+    "show_blur": false,
     "blur": 0
   }
 }
